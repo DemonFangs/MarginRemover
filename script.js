@@ -5,6 +5,8 @@
 // @description  A simple TamperMonkey script to remove margins between pages for some webtoons for specific webpages.
 // @copyright    2019+, DemonFangs
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/DemonFangs/MarginRemover/master/script.js
+// @updateURL    https://raw.githubusercontent.com/DemonFangs/MarginRemover/master/script.js
 // @match *://*manganelo.com/chapter/*/*
 // @match *://*mangakakalot.com/chapter/*/*
 // ==/UserScript==
